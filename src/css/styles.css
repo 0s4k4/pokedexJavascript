@@ -1,4 +1,6 @@
 @import 'header.css';
+@import 'screen-inside.css';
+@import 'screen-pokemon-detail.css';
 
 
 :root {

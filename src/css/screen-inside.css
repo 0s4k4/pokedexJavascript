@@ -1,0 +1,7 @@
+.pokedexContent-inside {
+    background-color: var(--dark-red);
+    padding-inline-start: 1.5rem;
+    padding-inline-end: 1.5rem;
+    box-sizing: border-box;
+  }
+  
